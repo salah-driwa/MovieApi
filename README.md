@@ -41,3 +41,26 @@ https://eu-west-2.aws.data.mongodb-api.com/app/application_movies-yupey/endpoint
 To retrieve a specific movie with a custom ID, e.g., "123456":
 
 https://eu-west-2.aws.data.mongodb-api.com/app/application_movies-yupey/endpoint/movies?id=123456 
+
+
+
+Movie Data JSON Description
+
+The following JSON data represents essential details about a movie:
+
+Title: "Mr. Car and the Knights Templar (2023)"
+
+Description: This intriguing adventure unfolds when an art historian stumbles upon a significant archaeological discovery—the cross of the Knights Templar's historical temple. What follows is an unexpected journey as they unite with a diverse group of adventurers. Their mission? To unveil the secrets hidden within this historically impactful artifact.
+Genres: Drama, Familial, Adventures
+
+Description: This movie embodies a blend of genres, including drama, familial themes, and thrilling adventures. It promises an engaging experience that caters to a diverse audience.
+Image URL:
+
+Movie Poster
+Description: The movie poster offers a captivating glimpse into the world of "Mr. Car and the Knights Templar (2023)." Its visual allure invites viewers to explore the intriguing narrative that awaits.
+Server URLs: Two server URLs are provided for streaming access.
+
+Server 1: Watch Movie
+Server 2: Watch Movie
+Description: These server URLs provide access to stream the movie. Click on the links to enjoy "Mr. Car and the Knights Templar (2023)" online.
+
